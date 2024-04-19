@@ -2,14 +2,14 @@
   "heroData": {
     "bgImgLink": "/images/background/hero-bg.jpg",
     "imgLink": "/images/section/hero-img.jpg",
-    "title": "Edward <br /> Davis",
+    "title": "Bernard <br /> Ofoegbu",
     "subTitle": "Hello, I’m",
     "designation": "Visual Designer"
   },
   "aboutData": {
     "imgLink": "/images/section/about.jpg",
     "cvPdf": "/images/Resume.pdf",
-    "title": "Hi There! I'm Edward Davis",
+    "title": "Hi There! I'm Bernard Ofoegbu",
     "subtitle": "Visual Designer",
     "text": "I am a Visual Designer with a strong focus on digital branding. Visul design seeks to attract, inspire, create desires and otivate people to respond to messages, with a view to making a favorable impact.",
     "details": [
@@ -19,11 +19,11 @@
       },
       {
         "title": "Phone",
-        "info": "+1 876-369-9009"
+        "info": "+234 706-085-9311"
       },
       {
         "title": "Email",
-        "info": "devis@example.com"
+        "info": "bernardofoegbu71@gmail.com"
       },
       {
         "title": "From",
