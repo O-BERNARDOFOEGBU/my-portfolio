@@ -4,18 +4,18 @@
     "imgLink": "/images/section/hero-img.jpg",
     "title": "Bernard <br /> Ofoegbu",
     "subTitle": "Hello, I’m",
-    "designation": "Visual Designer"
+    "designation": "Fullstack Developer"
   },
   "aboutData": {
     "imgLink": "/images/section/about.jpg",
     "cvPdf": "/images/Resume.pdf",
     "title": "Hi There! I'm Bernard Ofoegbu",
-    "subtitle": "Visual Designer",
-    "text": "I am a Visual Designer with a strong focus on digital branding. Visul design seeks to attract, inspire, create desires and otivate people to respond to messages, with a view to making a favorable impact.",
+    "subtitle": "Fullstack Developer",
+    "text": "I am a Full-Stack Developer with a keen emphasis on crafting seamless digital experiences. My expertise spans both front-end and back-end development, aiming to not only deliver functional solutions but also to engage, empower, and optimize user interactions. Through my work, I strive to stimulate engagement, streamline processes, and drive impactful results by seamlessly integrating technology to meet diverse needs",
     "details": [
       {
         "title": "Birthday",
-        "info": "May 07, 1990"
+        "info": "August 20"
       },
       {
         "title": "Phone",
