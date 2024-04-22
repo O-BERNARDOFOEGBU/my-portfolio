@@ -514,21 +514,21 @@
     "education": [
       {
         "title": "Master of Computer Science",
-        "duration": "2015 - 2016",
-        "subTitle": "University of XYZ",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "duration": "2024 - 2025",
+        "subTitle": "Birmingham City University",
+        "text": "Focused on advanced computer science concepts and practical applications, preparing for cutting-edge roles in technology and innovation."
       },
       {
-        "title": "Bachelor of Computer Science",
-        "duration": "2010 - 2014",
-        "subTitle": "University of ABC",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "title": "Bachelor of Science",
+        "duration": "2014 - 2018",
+        "subTitle": "University of Ibadan",
+        "text": "Equipped with a solid foundation in science and technology, fostering critical thinking and problem-solving skills for real-world challenges."
       },
       {
-        "title": "Diploma in Computer Science",
-        "duration": "2006 - 2010",
-        "subTitle": "XYZ Institution",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "title": "Full stack open",
+        "duration": "2023 - 2024",
+        "subTitle": "Department of Computer Science at the University of Helsinki",
+        "text": "The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js. also touches on GraphQL, a modern alternative to REST APIs.The course covers testing, configuration and environment management, the use of databases for storing the application’s data amongst other things."
       }
     ]
   },
@@ -540,24 +540,24 @@
   },
   "socialData": [
     {
-      "icon": "dribbble",
-      "title": "Dribbble",
-      "link": "/"
+      "icon": "github",
+      "title": "Github",
+      "link": "https://github.com/O-BERNARDOFOEGBU"
     },
     {
-      "icon": "behance",
-      "title": "Behance",
-      "link": "/"
+      "icon": "instagram",
+      "title": "Instagram",
+      "link": "https://www.instagram.com/duke_of_groovinburg/"
     },
     {
       "icon": "twitter",
       "title": "Twitter",
-      "link": "/"
+      "link": "https://twitter.com/ObinnaBernard"
     },
     {
       "icon": "linkedin",
       "title": "LinkedIn",
-      "link": "/"
+      "link": "https://www.linkedin.com/in/bernard-ofoegbu/"
     }
   ]
 }

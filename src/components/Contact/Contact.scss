@@ -1,4 +1,43 @@
-@import '../../sass/default/variable';
+@import "../../sass/default/variable";
+
+@keyframes vibrating {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  25% {
+    transform: translateY(-5px);
+  }
+  75% {
+    transform: translateY(5px);
+  }
+}
+
+.success-message,
+.error-message {
+  animation: bounceFadeOut 4s ease-in-out forwards,
+    vibrating 0.1s infinite alternate;
+}
+
+@keyframes bounceFadeOut {
+  0% {
+    opacity: 1;
+  }
+  90% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.success-message {
+  color: green;
+}
+
+.error-message {
+  color: red;
+}
 
 #st-alert {
   font-size: 15px;
@@ -72,7 +111,7 @@
     height: 50px;
     margin-right: 20px;
     transition: all 0.4s ease;
-    svg{
+    svg {
       scale: 1.1;
     }
   }

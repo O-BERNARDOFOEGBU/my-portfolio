@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 import "./Header.scss";
 import PropTypes from "prop-types";
 import { Link as ScrollLink } from "react-scroll";
@@ -6,6 +6,9 @@ import { useState } from "react";
 
 const Header = () => {
   const [mobileToggle, setMobileToggle] = useState(false);
+  const location = useLocation();
+
+  const isBlogDetailsPage = location.pathname === "/blog/blog-details";
 
   const handleToggleMenu = () => {
     setMobileToggle(!mobileToggle);
@@ -17,9 +20,14 @@ const Header = () => {
         <div className="container">
           <div className="st-main-header-in">
             <div className="st-main-header-left">
-              <Link className="st-site-branding" to="/" id="hero">
-                <img src="/images/logo.png" alt="Davis" />
-              </Link>
+              <span className="st-hero-text-header">
+                {" "}
+                <Link className="st-site-branding" to="/" id="hero">
+                  {/* <img src="/images/logo.png" alt="Davis" /> */}
+                  <img src="/images/favicon.ico" alt="Davis" />
+                </Link>
+              </span>
+              <span className="st-hero-text-header">foegbu</span>
             </div>
             <div className="st-main-header-right">
               <div className="st-nav">
@@ -28,16 +36,29 @@ const Header = () => {
                   style={{ display: `${mobileToggle ? "block" : "none"}` }}
                 >
                   <li>
-                    <ScrollLink
-                      to="home"
-                      spy={true}
-                      smooth={true}
-                      offset={-80}
-                      duration={500}
-                      onClick={() => setMobileToggle(false)}
-                    >
-                      Home
-                    </ScrollLink>
+                    {isBlogDetailsPage ? (
+                      <Link
+                        to="/"
+                        spy={true}
+                        smooth={true}
+                        offset={-80}
+                        duration={500}
+                        onClick={() => setMobileToggle(false)}
+                      >
+                        Home
+                      </Link>
+                    ) : (
+                      <ScrollLink
+                        to="home"
+                        spy={true}
+                        smooth={true}
+                        offset={-80}
+                        duration={500}
+                        onClick={() => setMobileToggle(false)}
+                      >
+                        Home
+                      </ScrollLink>
+                    )}
                   </li>
                   <li>
                     <ScrollLink

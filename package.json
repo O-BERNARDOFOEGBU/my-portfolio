@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emailjs/browser": "^4.3.3",
     "aos": "^2.3.4",
     "bootstrap": "^5.3.0",
     "gsap": "^3.12.2",

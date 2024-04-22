@@ -116,7 +116,7 @@
 }
 @media screen and (max-width: 1199px) {
   .st-nav {
-    .st-nav-list li:last-child{
+    .st-nav-list li:last-child {
       margin-right: 0;
     }
     .sp-phone {
@@ -124,7 +124,6 @@
     }
   }
 }
-
 
 @media screen and (max-width: 991px) {
   .st-munu-dropdown-toggle {
@@ -360,10 +359,13 @@
     }
 
     .st-main-header-left {
+      display: flex;
       margin-left: -40px;
       margin-right: -40px;
       border-bottom: 1px solid #101624;
       padding-bottom: 40px;
+      align-items: center;
+      justify-items: center;
     }
   }
 
@@ -406,3 +408,18 @@
     border: 2px solid rgba(255, 255, 255, 0.1);
   }
 }
+
+.st-hero-text-header {
+  font-size: 40px;
+  line-height: 80px;
+  color: $base-color3;
+  font-family: "Leckerli One", cursive;
+  font-family: "Varela", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  margin-left: 2px;
+}
+
+// .st-site-branding {
+//   margin-bottom: 20px;
+// }
