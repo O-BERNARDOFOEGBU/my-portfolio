@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { HashRouter, Route, Routes } from "react-router-dom";
 import { useEffect } from "react";
 import Layout from "./components/Layout/Layout";
 import Home from "./pages/Home";
@@ -11,14 +11,14 @@ function App() {
     Aos.init({ once: true });
   }, []);
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
           <Route path="/blog/blog-details" element={<BlogDetails />} />
         </Route>
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
