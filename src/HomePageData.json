@@ -54,7 +54,7 @@
         "delay": "200"
       },
       {
-        "imgLink": "/images/icon/icon2.png",
+        "imgLink": "./images/icon/icon2.png",
         "title": "UI/UX Design",
         "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
         "effect": "zoom-out-up",
