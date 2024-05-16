@@ -1,14 +1,14 @@
 {
   "heroData": {
-    "bgImgLink": "/images/background/hero-bg.jpg",
-    "imgLink": "/images/section/hero-img.jpg",
+    "bgImgLink": "./images/background/hero-bg.jpg",
+    "imgLink": "./images/section/hero-img.jpg",
     "title": "Bernard <br /> Ofoegbu",
     "subTitle": "Hello, I’m",
     "designation": "Fullstack Developer"
   },
   "aboutData": {
-    "imgLink": "/images/section/about.jpg",
-    "cvPdf": "/images/Resume.pdf",
+    "imgLink": "./images/section/about.jpg",
+    "cvPdf": "./images/Resume.pdf",
     "title": "Hi There! I'm Bernard Ofoegbu",
     "subtitle": "Fullstack Developer",
     "text": "I am a Full-Stack Developer with a keen emphasis on crafting seamless digital experiences. My expertise spans both front-end and back-end development, aiming to not only deliver functional solutions but also to engage, empower, and optimize user interactions. Through my work, I strive to stimulate engagement, streamline processes, and drive impactful results by seamlessly integrating technology to meet diverse needs",
@@ -46,7 +46,7 @@
   "serviceData": {
     "services": [
       {
-        "imgLink": "/images/icon/icon1.png",
+        "imgLink": "./images/icon/icon1.png",
         "title": "Sketches",
         "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
         "effect": "zoom-out-up",
@@ -62,7 +62,7 @@
         "delay": "300"
       },
       {
-        "imgLink": "/images/icon/icon3.png",
+        "imgLink": "./images/icon/icon3.png",
         "title": "Product Design",
         "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
         "effect": "zoom-out-up",
@@ -70,7 +70,7 @@
         "delay": "400"
       },
       {
-        "imgLink": "/images/icon/icon4.png",
+        "imgLink": "./images/icon/icon4.png",
         "title": "App Design",
         "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
         "effect": "zoom-out-up",
@@ -78,7 +78,7 @@
         "delay": "500"
       },
       {
-        "imgLink": "/images/icon/icon5.png",
+        "imgLink": "./images/icon/icon5.png",
         "title": "Motion Graphics",
         "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
         "effect": "zoom-out-up",
@@ -86,7 +86,7 @@
         "delay": "600"
       },
       {
-        "imgLink": "/images/icon/icon6.png",
+        "imgLink": "./images/icon/icon6.png",
         "title": "Responsive Design",
         "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
         "effect": "zoom-out-up",
@@ -146,8 +146,8 @@
   "portfolioData": {
     "portfolioItems": [
       {
-        "imgLink": "/images/portfolio/portfolio1.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
+        "imgLink": "./images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
@@ -155,8 +155,8 @@
         "delay": "200"
       },
       {
-        "imgLink": "/images/portfolio/portfolio2.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
+        "imgLink": "./images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
@@ -164,8 +164,8 @@
         "delay": "300"
       },
       {
-        "imgLink": "/images/portfolio/portfolio3.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio3_lg.jpg",
+        "imgLink": "./images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
@@ -173,8 +173,8 @@
         "delay": "400"
       },
       {
-        "imgLink": "/images/portfolio/portfolio4.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
+        "imgLink": "./images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
@@ -182,8 +182,8 @@
         "delay": "500"
       },
       {
-        "imgLink": "/images/portfolio/portfolio5.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio5_lg.jpg",
+        "imgLink": "./images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
@@ -191,8 +191,8 @@
         "delay": "600"
       },
       {
-        "imgLink": "/images/portfolio/portfolio6.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio6_lg.jpg",
+        "imgLink": "./images/portfolio/portfolio6.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
@@ -200,8 +200,8 @@
         "delay": "700"
       },
       {
-        "imgLink": "/images/portfolio/portfolio1.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
+        "imgLink": "./images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
@@ -209,8 +209,8 @@
         "delay": "200"
       },
       {
-        "imgLink": "/images/portfolio/portfolio2.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
+        "imgLink": "./images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
@@ -218,8 +218,8 @@
         "delay": "300"
       },
       {
-        "imgLink": "/images/portfolio/portfolio3.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio3_lg.jpg",
+        "imgLink": "./images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
@@ -227,8 +227,8 @@
         "delay": "400"
       },
       {
-        "imgLink": "/images/portfolio/portfolio4.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
+        "imgLink": "./images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
@@ -236,8 +236,8 @@
         "delay": "500"
       },
       {
-        "imgLink": "/images/portfolio/portfolio5.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio5_lg.jpg",
+        "imgLink": "./images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
@@ -245,8 +245,8 @@
         "delay": "600"
       },
       {
-        "imgLink": "/images/portfolio/portfolio6.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio6_lg.jpg",
+        "imgLink": "./images/portfolio/portfolio6.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
@@ -254,8 +254,8 @@
         "delay": "700"
       },
       {
-        "imgLink": "/images/portfolio/portfolio1.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
+        "imgLink": "./images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
@@ -263,8 +263,8 @@
         "delay": "200"
       },
       {
-        "imgLink": "/images/portfolio/portfolio2.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
+        "imgLink": "./images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
@@ -272,8 +272,8 @@
         "delay": "300"
       },
       {
-        "imgLink": "/images/portfolio/portfolio3.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio3_lg.jpg",
+        "imgLink": "./images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
@@ -281,8 +281,8 @@
         "delay": "400"
       },
       {
-        "imgLink": "/images/portfolio/portfolio4.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
+        "imgLink": "./images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
