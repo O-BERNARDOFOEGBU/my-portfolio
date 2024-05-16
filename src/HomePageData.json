@@ -290,8 +290,8 @@
         "delay": "500"
       },
       {
-        "imgLink": "/images/portfolio/portfolio5.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio5_lg.jpg",
+        "imgLink": "./images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
@@ -299,8 +299,8 @@
         "delay": "600"
       },
       {
-        "imgLink": "/images/portfolio/portfolio6.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio6_lg.jpg",
+        "imgLink": "./images/portfolio/portfolio6.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
@@ -308,8 +308,8 @@
         "delay": "700"
       },
       {
-        "imgLink": "/images/portfolio/portfolio1.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
+        "imgLink": "./images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
@@ -317,8 +317,8 @@
         "delay": "200"
       },
       {
-        "imgLink": "/images/portfolio/portfolio2.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
+        "imgLink": "./images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
@@ -326,8 +326,8 @@
         "delay": "300"
       },
       {
-        "imgLink": "/images/portfolio/portfolio3.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio3_lg.jpg",
+        "imgLink": "./images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
@@ -335,8 +335,8 @@
         "delay": "400"
       },
       {
-        "imgLink": "/images/portfolio/portfolio4.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
+        "imgLink": "./images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
@@ -344,8 +344,8 @@
         "delay": "500"
       },
       {
-        "imgLink": "/images/portfolio/portfolio5.jpg",
-        "imgLinkLg": "/images/portfolio/portfolio5_lg.jpg",
+        "imgLink": "./images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
@@ -381,42 +381,42 @@
     },
     "informations": [
       {
-        "imgLink": "/images/blog/blog1.jpg",
+        "imgLink": "./images/blog/blog1.jpg",
         "designation": "Admin",
         "date": "07-03-2023",
         "title": "latest trends in Graphic design according to you?",
         "href": "/blog/blog-details"
       },
       {
-        "imgLink": "/images/blog/blog2.jpg",
+        "imgLink": "./images/blog/blog2.jpg",
         "designation": "Admin",
         "date": "07-03-2023",
         "title": "What are the latest trends in Graphic design according to you?",
         "href": "/blog/blog-details"
       },
       {
-        "imgLink": "/images/blog/blog3.jpg",
+        "imgLink": "./images/blog/blog3.jpg",
         "designation": "Admin",
         "date": "07-03-2023",
         "title": "Trends in Graphic design according to you?",
         "href": "/blog/blog-details"
       },
       {
-        "imgLink": "/images/blog/blog1.jpg",
+        "imgLink": "./images/blog/blog1.jpg",
         "designation": "Admin",
         "date": "07-03-2023",
         "title": "What are the latest trends in Graphic design according to you?",
         "href": "/blog/blog-details"
       },
       {
-        "imgLink": "/images/blog/blog2.jpg",
+        "imgLink": "./images/blog/blog2.jpg",
         "designation": "Admin",
         "date": "07-03-2023",
         "title": "The latest trends in Graphic design according to you?",
         "href": "/blog/blog-details"
       },
       {
-        "imgLink": "/images/blog/blog3.jpg",
+        "imgLink": "./images/blog/blog3.jpg",
         "designation": "Admin",
         "date": "07-03-2023",
         "title": "What are the latest trends in Graphic design according to you?",
@@ -451,37 +451,37 @@
     },
     "informations": [
       {
-        "imgLink": "/images/client/client1.png",
+        "imgLink": "./images/client/client1.png",
         "title": "Richard Miles",
         "designation": "Chairman",
         "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
       },
       {
-        "imgLink": "/images/client/client2.png",
+        "imgLink": "./images/client/client2.png",
         "title": "Vesta Shufelt",
         "designation": "Executive Director",
         "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
       },
       {
-        "imgLink": "/images/client/client3.png",
+        "imgLink": "./images/client/client3.png",
         "title": "Joseph Alves",
         "designation": "Managing Director",
         "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
       },
       {
-        "imgLink": "/images/client/client1.png",
+        "imgLink": "./images/client/client1.png",
         "title": "Richard Miles",
         "designation": "Chairman",
         "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
       },
       {
-        "imgLink": "/images/client/client2.png",
+        "imgLink": "./images/client/client2.png",
         "title": "Vesta Shufelt",
         "designation": "Executive Director",
         "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
       },
       {
-        "imgLink": "/images/client/client3.png",
+        "imgLink": "./images/client/client3.png",
         "title": "Joseph Alves",
         "designation": "Managing Director",
         "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
