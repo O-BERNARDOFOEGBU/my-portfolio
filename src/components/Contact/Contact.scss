@@ -15,8 +15,8 @@
 
 .success-message,
 .error-message {
-  animation: bounceFadeOut 4s ease-in-out forwards,
-    vibrating 0.1s infinite alternate;
+  animation: bounceFadeOut 5s ease-in-out forwards,
+    vibrating 0.3s infinite alternate;
 }
 
 @keyframes bounceFadeOut {
@@ -33,15 +33,17 @@
 
 .success-message {
   color: green;
+  background: #fffd8d;
 }
 
 .error-message {
   color: red;
+  background: #fffd8d;
 }
 
 #st-alert {
   font-size: 15px;
-  font-weight: 300;
+  font-weight: 500;
 }
 
 .st-contact-title {
