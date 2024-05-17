@@ -27,7 +27,7 @@
       },
       {
         "title": "From",
-        "info": "2661 Hich meadow lane bear creek"
+        "info": "Victoria Bay 2 Estate, 106104"
       },
       {
         "title": "Language",
@@ -47,48 +47,48 @@
     "services": [
       {
         "imgLink": "./images/icon/icon1.png",
-        "title": "Sketches",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "Frontend Development",
+        "text": "Building responsive and interactive user interfaces using modern frontend technologies such as HTML, CSS, JavaScript, and frameworks like React and Next.js",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "200"
       },
       {
         "imgLink": "./images/icon/icon2.png",
-        "title": "UI/UX Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "UI/UX Implementation",
+        "text": "Translating UI/UX designs / wireframes into high-quality, pixel-perfect code and ensuring the technical feasibility and fidelity of these designs.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "300"
       },
       {
         "imgLink": "./images/icon/icon3.png",
-        "title": "Product Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "Backend Development",
+        "text": "Developing robust server-side logic, databases, and APIs using technologies such as Node.js or Python ensuring efficient and secure data management.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "400"
       },
       {
         "imgLink": "./images/icon/icon4.png",
-        "title": "App Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": " Mobile Development",
+        "text": "Creating cross-platform mobile applications for iOS and Android using React Native, with intuitive and responsive user interfaces, API integration, and optimized performance across devices",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "500"
       },
       {
         "imgLink": "./images/icon/icon5.png",
-        "title": "Motion Graphics",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "API development and Integration",
+        "text": "Creating and integrating RESTful or GraphQL APIs to enable seamless communication between different parts of an application and third-party services",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "600"
       },
       {
         "imgLink": "./images/icon/icon6.png",
-        "title": "Responsive Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "Continuous Integration/Continuous Deployment (CI/CD)",
+        "text": " Implementing automated pipelines to streamline the process of building, testing, and deploying software updates.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "700"
