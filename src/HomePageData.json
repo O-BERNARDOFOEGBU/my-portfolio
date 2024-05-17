@@ -452,51 +452,33 @@
     "informations": [
       {
         "imgLink": "./images/client/client1.png",
-        "title": "Richard Miles",
-        "designation": "Chairman",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        "title": "Oladipo Alonge",
+        "designation": "Founding Partner @Cesno Energy",
+        "text": "Every project we've collaborated on has been completed on time and exceeded expectations in terms of performance and user experience"
       },
       {
         "imgLink": "./images/client/client2.png",
-        "title": "Vesta Suawytelt",
-        "designation": "Executive Director",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        "title": "Bolanle Ogungbemi",
+        "designation": "Product designer @Wazobia Technologies",
+        "text": "Collaborating with Bernard has been an exceptional experience. His pixel-perfect expertise brings my ui/ux designs to life perfectly."
       },
       {
         "imgLink": "./images/client/client3.png",
-        "title": "Joseph Alves",
-        "designation": "Managing Director",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        "title": "Olumide Akinremi",
+        "designation": "Technical Team Lead @Sabi",
+        "text": " His attention to detail and commitment to excellence are truly impressive.  I highly recommend this developer to anyone in need of a skilled and reliable professional"
       },
       {
-        "imgLink": "./images/client/client1.png",
-        "title": "Richard Miles",
-        "designation": "Chairman",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        "imgLink": "./images/client/client4.png",
+        "title": "Dolapo Atere",
+        "designation": "Tax Consultant @KPMG",
+        "text": "His expertise is evident in the quality solutions he delivers. He can grasp complex requirements and turn them into seamless, functional applications."
       },
       {
-        "imgLink": "./images/client/client2.png",
-        "title": "Vesta Shufelt",
-        "designation": "Executive Director",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
-      },
-      {
-        "imgLink": "./images/client/client3.png",
-        "title": "Joseph Alves",
-        "designation": "Managing Director",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
-      },
-      {
-        "imgLink": "./images/client/client3.png",
-        "title": "Joseph Alves",
-        "designation": "Managing Director",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
-      },
-      {
-        "imgLink": "./images/client/client3.png",
-        "title": "Joseph baine",
-        "designation": "Managing Director",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        "imgLink": "./images/client/client5.png",
+        "title": "George Etokakpan",
+        "designation": "Principal Partner @Crexas Law",
+        "text": " I value professionals who can deliver high-quality results efficiently. Bernard is very efficient at what he does, he helped to optimize my law firm’s website "
       }
     ]
   },
