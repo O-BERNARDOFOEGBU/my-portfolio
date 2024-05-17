@@ -334,8 +334,8 @@ const Contact = ({ data, socialData }) => {
                 </div>
                 <div className="st-single-info-details">
                   <h4>Email</h4>
-                  <Link to="#">devis@example.com</Link>
-                  <Link to="#">info@support.com</Link>
+                  <Link to="#">bernardofoegbu@aol.com</Link>
+                  <Link to="#">info.ofoegbu@aol.com</Link>
                 </div>
               </div>
               <div className="st-single-contact-info">
@@ -344,8 +344,8 @@ const Contact = ({ data, socialData }) => {
                 </div>
                 <div className="st-single-info-details">
                   <h4>Phone</h4>
-                  <span>+1 876-369-9009</span>
-                  <span>+1 213-519-1786</span>
+                  <span>+234 706-085-9311</span>
+                  {/* <span>+1 213-519-1786</span> */}
                 </div>
               </div>
               <div className="st-single-contact-info">
@@ -354,10 +354,7 @@ const Contact = ({ data, socialData }) => {
                 </div>
                 <div className="st-single-info-details">
                   <h4>Address</h4>
-                  <span>
-                    2661 High Meadow Lane Bear Creek, <br />
-                    Olancha, KY 93544
-                  </span>
+                  <span>Victoria Bay 2 Estate, 106104</span>
                 </div>
               </div>
               <div className="st-social-info">
