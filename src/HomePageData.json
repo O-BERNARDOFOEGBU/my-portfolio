@@ -23,7 +23,7 @@
       },
       {
         "title": "Email",
-        "info": "bernardofoegbu71@gmail.com"
+        "info": "bernardofoegbu@aol.com"
       },
       {
         "title": "From",
@@ -31,14 +31,14 @@
       },
       {
         "title": "Language",
-        "info": "English, Germanic"
+        "info": "English"
       },
       {
         "title": "Freelance",
         "info": "Available"
       },
       {
-        "title": "Freelance",
+        "title": "Fulltime",
         "info": "Available"
       }
     ]
@@ -492,22 +492,22 @@
     "experienceTitle": "Experience",
     "experience": [
       {
-        "title": "Senior UX/UI Designer",
-        "duration": "Jan 2020 - Present",
-        "subTitle": "Bergnaum, Hills and Howe",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "title": "FullStack Developer",
+        "duration": "March 2023 - Present",
+        "subTitle": "HouseParry",
+        "text": " Engineering, crafting, and upholding background services in Node.js, ensuring high performance and reliability for the e-commerce platform. Leveraged Node.js, Express, and MongoDB to tailor backend functionalities to suit e-commerce requirements while orchestrating the frontend with React"
       },
       {
-        "title": "Product Designer",
-        "duration": "Jan 2016 - December 2019",
-        "subTitle": "Langosh, Sipes and Raynor",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "title": "Frontend Developer",
+        "duration": "June 2021 - Jan 2023",
+        "subTitle": "Sabi",
+        "text": "I worked in an agile team of 9 to develop a user facing Front-End focused Progressive Web Application (PWA) aimed at enabling and empowering users in the informal sector across Africa to distribute goods and services.  (Became No.1 B2B retail platform in Nigeria)"
       },
       {
-        "title": "UI/UX Designer",
-        "duration": "Jan 2014 - December 2015",
-        "subTitle": "Strosin, Maggio and Homenick",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "title": "Web Developer",
+        "duration": "Sept 2020 - May 2021",
+        "subTitle": "RideApp",
+        "text": " I worked in a team proffering web solutions and developing web applications utilizing web technologies, such as Html, CSS, Vanilla Javascript, ReactJs/Redux, Express.js, Mongoose, and MongoDB."
       }
     ],
     "educationTitle": "Education",
