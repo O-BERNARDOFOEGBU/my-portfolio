@@ -1,5 +1,5 @@
 {
-  "homepage": "http://o-bernardofoegbu.github.io/my-portfolio",
+  // "homepage": "http://o-bernardofoegbu.github.io/my-portfolio",
   "name": "ofoegbu-react",
   "private": true,
   "version": "0.0.0",
@@ -8,9 +8,9 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "preview": "vite preview"
+    // "predeploy": "npm run build",
+    // "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@emailjs/browser": "^4.3.3",
