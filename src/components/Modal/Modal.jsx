@@ -1,9 +1,9 @@
-import './Modal.scss';
+import "./Modal.scss";
 
-const Modal = ({ img, title, subTitle, modalClose }) => {
+const Modal = ({ img, title, subTitle, summary, modalClose }) => {
   const modalStyle = {
-    backgroundColor: 'rgba(0,0,0,0.8)',
-    display: 'block',
+    backgroundColor: "rgba(0,0,0,0.8)",
+    display: "block",
   };
   return (
     <div className="modal show fade bd-example-modal-lg" style={modalStyle}>
@@ -22,6 +22,7 @@ const Modal = ({ img, title, subTitle, modalClose }) => {
               <img src={img} />
             </div>
             <p className="modal-subtitle">{subTitle}</p>
+            <p className="modal-subtitle">{summary}</p>
           </div>
         </div>
       </div>

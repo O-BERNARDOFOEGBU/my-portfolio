@@ -1,31 +1,30 @@
-import PropTypes from 'prop-types';
-import './Portfolio.scss';
-import SectionHeading from '../SectionHeading/SectionHeading';
-import { useState } from 'react';
-import SinglePortfolio from './SinglePortfolio';
-import Modal from '../Modal/Modal';
+import PropTypes from "prop-types";
+import "./Portfolio.scss";
+import SectionHeading from "../SectionHeading/SectionHeading";
+import { useState } from "react";
+import SinglePortfolio from "./SinglePortfolio";
+import Modal from "../Modal/Modal";
 
 const PortfolioSection = ({ data }) => {
   // Modal
   const [modal, setModal] = useState(false);
   const [tempData, setTempData] = useState([]);
 
-  const getData = (imgLink, title, subTitle) => {
-    let tempData = [imgLink, title, subTitle];
-    setTempData(item => [1, ...tempData]);
+  const getData = (imgLink, title, subTitle, summary) => {
+    let tempData = [imgLink, title, subTitle, summary];
+    setTempData((item) => [1, ...tempData]);
     setModal(true);
-  }
+  };
 
   const modalClose = () => {
     setModal(false);
-  }
-
+  };
 
   // Load Items
   const { portfolioItems } = data;
   const itemsPerPage = 6;
   const [visibleItems, setVisibleItems] = useState(
-    portfolioItems.slice(0, itemsPerPage),
+    portfolioItems.slice(0, itemsPerPage)
   );
 
   const [showLoadMore, setShowLoadMore] = useState(true);
@@ -34,9 +33,9 @@ const PortfolioSection = ({ data }) => {
     const currentLength = visibleItems.length;
     const nextChunk = portfolioItems.slice(
       currentLength,
-      currentLength + itemsPerPage,
+      currentLength + itemsPerPage
     );
-    setVisibleItems(prevItems => [...prevItems, ...nextChunk]);
+    setVisibleItems((prevItems) => [...prevItems, ...nextChunk]);
 
     if (currentLength + itemsPerPage >= portfolioItems.length) {
       setShowLoadMore(false);
@@ -47,7 +46,7 @@ const PortfolioSection = ({ data }) => {
     <>
       <section id="portfolio">
         <div className="st-height-b100 st-height-lg-b80"></div>
-        <SectionHeading title={'Portfolio'} />
+        <SectionHeading title={"Portfolio"} />
         <div className="container">
           <div className="row">
             {visibleItems.map((element, index) => (
@@ -69,7 +68,17 @@ const PortfolioSection = ({ data }) => {
         </div>
         <div className="st-height-b100 st-height-lg-b80"></div>
       </section>
-      {modal === true ? <Modal img={tempData[1]} title={tempData[2]} subTitle={tempData[3]} modalClose={modalClose} /> : ""}
+      {modal === true ? (
+        <Modal
+          img={tempData[1]}
+          title={tempData[2]}
+          subTitle={tempData[3]}
+          summary={tempData[4]}
+          modalClose={modalClose}
+        />
+      ) : (
+        ""
+      )}
     </>
   );
 };
@@ -79,5 +88,3 @@ PortfolioSection.propTypes = {
 };
 
 export default PortfolioSection;
-
-

@@ -152,7 +152,8 @@
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "200"
+        "delay": "200",
+        "summary": "This was work"
       },
       {
         "imgLink": "./images/portfolio/portfolio2.jpg",
@@ -384,21 +385,21 @@
         "imgLink": "./images/blog/blog1.jpg",
         "designation": "Admin",
         "date": "07-03-2023",
-        "title": "latest trends in Graphic design according to you?",
+        "title": "latest trends in software engineering according to you?",
         "href": "./blog/blog-details"
       },
       {
         "imgLink": "./images/blog/blog2.jpg",
         "designation": "Admin",
         "date": "07-03-2023",
-        "title": "What are the latest trends in Graphic design according to you?",
+        "title": "What are the latest trends in API designs according to you?",
         "href": "./blog/blog-details"
       },
       {
         "imgLink": "./images/blog/blog3.jpg",
         "designation": "Admin",
         "date": "07-03-2023",
-        "title": "Trends in Graphic design according to you?",
+        "title": "Trends in Mobile development according to you?",
         "href": "./blog/blog-details"
       },
       {
