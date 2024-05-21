@@ -10,8 +10,8 @@ const PortfolioSection = ({ data }) => {
   const [modal, setModal] = useState(false);
   const [tempData, setTempData] = useState([]);
 
-  const getData = (imgLink, title, subTitle, summary) => {
-    let tempData = [imgLink, title, subTitle, summary];
+  const getData = (imgLink, title, subTitle, summary, website, github) => {
+    let tempData = [imgLink, title, subTitle, summary, website, github];
     setTempData((item) => [1, ...tempData]);
     setModal(true);
   };
@@ -74,6 +74,8 @@ const PortfolioSection = ({ data }) => {
           title={tempData[2]}
           subTitle={tempData[3]}
           summary={tempData[4]}
+          website={tempData[5]}
+          github={tempData[6]}
           modalClose={modalClose}
         />
       ) : (

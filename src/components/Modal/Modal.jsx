@@ -1,6 +1,15 @@
+import { Link } from "react-router-dom";
 import "./Modal.scss";
 
-const Modal = ({ img, title, subTitle, summary, modalClose }) => {
+const Modal = ({
+  img,
+  title,
+  subTitle,
+  summary,
+  website,
+  github,
+  modalClose,
+}) => {
   const modalStyle = {
     backgroundColor: "rgba(0,0,0,0.8)",
     display: "block",
@@ -23,6 +32,22 @@ const Modal = ({ img, title, subTitle, summary, modalClose }) => {
             </div>
             <p className="modal-subtitle">{subTitle}</p>
             <p className="modal-subtitle">{summary}</p>
+            <div className="link-container">
+              <Link
+                // type="button"
+                className="link-url"
+                onClick={() => (window.location.href = `${website}`)}
+              >
+                Website
+              </Link>
+              <Link
+                // type="button"
+                className="link-url"
+                onClick={() => (window.location.href = `${github}`)}
+              >
+                Github
+              </Link>
+            </div>
           </div>
         </div>
       </div>

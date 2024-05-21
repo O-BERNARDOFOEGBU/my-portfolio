@@ -11,6 +11,8 @@ const SinglePortfolio = ({ data, getData }) => {
     duration,
     delay,
     summary,
+    website,
+    github,
   } = data;
 
   return (
@@ -22,7 +24,9 @@ const SinglePortfolio = ({ data, getData }) => {
     >
       <div
         className="st-portfolio-single st-style1"
-        onClick={() => getData(imgLinkLg, title, subTitle, summary)}
+        onClick={() =>
+          getData(imgLinkLg, title, subTitle, summary, website, github)
+        }
       >
         <div className="st-portfolio-item">
           <div className="st-portfolio st-zoom">

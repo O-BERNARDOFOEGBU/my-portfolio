@@ -148,12 +148,14 @@
       {
         "imgLink": "./images/portfolio/portfolio1.jpg",
         "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "title": "CESNO Energy",
+        "subTitle": "Web Development",
         "effect": "fade-up",
         "duration": "500",
         "delay": "200",
-        "summary": "This was work"
+        "website": "https://www.cesnoenergy.com",
+        "github": "https://github.com/O-BERNARDOFOEGBU/CESNO-ENERGY",
+        "summary": "CESNO ENERGY is a dynamic web platform built for a leading energy company that specializes in renewable energy solutions as well as oil and gas services. This project highlights my expertise in web development for corporate entities and my ability to create user-centric, responsive web applications. The website features a detailed overview of the company's mission and values, an extensive list of services, and informative content on energy solutions and industry trends. The user-friendly interface and modern design ensure a seamless experience across all devices, making it easy for users to navigate and find the information they need. Key technologies used in this project include HTML, CSS, JavaScript,bootstarap and an Email service for handling the contact form. Explore the CESNO ENERGY website to see how I brought this project to life, and visit the GitHub repository for a deeper look into the development process."
       },
       {
         "imgLink": "./images/portfolio/portfolio2.jpg",

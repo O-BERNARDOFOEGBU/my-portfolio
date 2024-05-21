@@ -1,14 +1,31 @@
-@import '../../sass/default/variable';
-
+@import "../../sass/default/variable";
 
 .modal-title,
-.modal-subtitle{
+.modal-subtitle {
   color: $base-color4;
 }
 
-.modal-body img{
+.modal-body img {
   width: 100%;
   margin-bottom: 20px;
 }
 
+.link-container {
+  display: flex;
+  gap: 10px;
+}
 
+.link-url {
+  color: $base-color1;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: $base-color4;
+  display: inline-block;
+  margin-top: 10px;
+  transition: background-color 0.3s;
+}
+
+// .link-url:hover {
+//   background-color: #e0e0e0;
+// }
