@@ -169,11 +169,14 @@
       {
         "imgLink": "./images/portfolio/portfolio3.jpg",
         "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "title": "SABI",
+        "subTitle": "PWA / Mobile development",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "400"
+        "delay": "400",
+        "website": "https://www.spaceso2o.com",
+        "github": "https://github.com/spacesio-org",
+        "summary": "Sabi is Africa’s largest B2B platform enabling informal trade across the continent. This project demonstrates my proficiency in developing user-centric, responsive web applications for the business-to-business sector. The platform allows users to manage storefronts, record daily sales, sell online, and order goods at wholesale prices. Key features include a Progressive Web Application (PWA) built with ReactJs, a mobile app developed with React Native, and seamless API integrations for efficient data exchange. The application ensures optimal performance and user experience across various devices. Technologies used in this project include ReactJs, React Native, Redux, HTML, CSS, JavaScript, and REST APIs. Explore how I contributed to making Sabi the No.1 B2B retail platform in Nigeria."
       },
       {
         "imgLink": "./images/portfolio/portfolio4.jpg",

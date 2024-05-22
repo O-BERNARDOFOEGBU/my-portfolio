@@ -24,7 +24,7 @@ const Header = () => {
                 {" "}
                 <Link className="st-site-branding" to="/" id="hero">
                   {/* <img src="/images/logo.png" alt="Davis" /> */}
-                  <img src="./images/favicon.ico" alt="Ofoegbu's Logo" />
+                  <img src="./images/favicon.ico" alt="Ofoegbu" />
                 </Link>
               </span>
               <span className="st-hero-text-header">foegbu</span>
