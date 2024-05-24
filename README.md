@@ -39,6 +39,8 @@ Check out the live demo of the portfolio: [bernardofoegbu.is-a.dev](https://bern
 - [Iconify](https://iconify.design/)
 - [AOS (Animate On Scroll)](https://michalsnik.github.io/aos/)
 
+## License
+This project is licensed under the GPL-3.0 License.
 
 ## Acknowledgements
 - Original design by Laralink © 2024
