@@ -5,3 +5,8 @@
 https://github.com/codeplay-code/Davis-Personal-Portfolio-ReactJs-Template/wiki -->
 
 Ofoegbu portfolio
+
+## Acknowledgements
+- Original design by Laralink © 2024
+- Modifications and enhancements by Ofoegbu © 2024
+
