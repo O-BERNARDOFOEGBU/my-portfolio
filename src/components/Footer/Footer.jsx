@@ -1,4 +1,4 @@
-import './Footer.scss';
+import "./Footer.scss";
 
 const Footer = () => {
   const currentDate = new Date();
@@ -7,11 +7,13 @@ const Footer = () => {
     <footer>
       <div className="container">
         <div className="st-copyright-wrap text-center">
-          <div className="st-copyright-text">© {currentYear}. Designed by Laralink. All right reserved.</div>
+          <div className="st-copyright-text">
+            © {currentYear}. Obinna Bernard Ofoegbu. All right reserved.
+          </div>
         </div>
       </div>
     </footer>
-  )
-}
+  );
+};
 
 export default Footer;

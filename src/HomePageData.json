@@ -181,8 +181,8 @@
       {
         "imgLink": "./images/portfolio/portfolio4.jpg",
         "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "title": "Menosphere",
+        "subTitle": "Fullstack Web App",
         "effect": "fade-up",
         "duration": "500",
         "delay": "500"
