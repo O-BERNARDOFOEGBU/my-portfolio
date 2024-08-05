@@ -387,11 +387,39 @@
     },
     "informations": [
       {
-        "imgLink": "./images/blog/blog1.jpg",
-        "designation": "Admin",
-        "date": "07-03-2023",
-        "title": "latest trends in software engineering according to you?",
-        "href": "./blog/blog-details"
+        "imgLink": "https://miro.medium.com/v2/resize:fit:786/format:webp/0*xNtmEqgNfizJtgvx",
+        "designation": "Bernard Ofoegbu",
+        "date": "05-08-2024",
+        "title": "State Management in React Applications: An In-depth Analysis of Redux, Context API, and Recoil",
+        "href": "https://medium.com/@bernardofoegbu/state-management-in-react-applications-an-in-depth-analysis-of-redux-context-api-and-recoil-6aed80cbf2be"
+      },
+      {
+        "imgLink": "https://camo.githubusercontent.com/541b7948db629e84367bfd94276ead804e295ed0ac8c1864217333e31a355d93/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d34626232363339626563646363343130343335373562643362366334326137372d63",
+        "designation": "Bernard Ofoegbu",
+        "date": "02-08-2024",
+        "title": "Understanding Recursion in JavaScript",
+        "href": "https://gist.github.com/O-BERNARDOFOEGBU/e27e611a3115fb6f040010c6db49a3af"
+      },
+      {
+        "imgLink": "https://media.licdn.com/dms/image/C4D22AQHUMKu9KjEgYw/feedshare-shrink_2048_1536/0/1657196516525?e=1725494400&v=beta&t=6xd3n-9A-Si5MM72ATa2hg-5vPOfi_QyA5Nch8CtHVI",
+        "designation": "Bernard Ofoegbu",
+        "date": "04-08-2022",
+        "title": "How to easily make a show or hide password toggle button in React JS",
+        "href": "https://www.linkedin.com/feed/update/urn:li:activity:6950785991695556608/"
+      },
+      {
+        "imgLink": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwkbgrdl64tf1j9g5gfdc.png",
+        "designation": "Bernard Ofoegbu",
+        "date": "05-08-2024",
+        "title": "Real-Time Features in MERN Applications",
+        "href": "https://dev.to/goldenfinger/real-time-features-in-mern-applications-56db"
+      },
+      {
+        "imgLink": "https://media.licdn.com/dms/image/sync/D4E27AQFRPwMxm6uWhQ/articleshare-shrink_160/0/1722625149191?e=1723482000&v=beta&t=GFWEkXnBYdmj5St5c66p3OPQxFcXoeeEwRw9oyvbhNM",
+        "designation": "Bernard Ofoegbu",
+        "date": "05-07-2023",
+        "title": "Achieving Multitenancy and Localization in React",
+        "href": "https://www.linkedin.com/feed/update/urn:li:activity:7082450015863877632/"
       },
       {
         "imgLink": "./images/blog/blog2.jpg",
@@ -401,32 +429,11 @@
         "href": "./blog/blog-details"
       },
       {
-        "imgLink": "./images/blog/blog3.jpg",
-        "designation": "Admin",
-        "date": "07-03-2023",
-        "title": "Trends in Mobile development according to you?",
-        "href": "./blog/blog-details"
-      },
-      {
-        "imgLink": "./images/blog/blog1.jpg",
-        "designation": "Admin",
-        "date": "07-03-2023",
-        "title": "What are the latest trends in Graphic design according to you?",
-        "href": "./blog/blog-details"
-      },
-      {
-        "imgLink": "./images/blog/blog2.jpg",
-        "designation": "Admin",
-        "date": "07-03-2023",
-        "title": "The latest trends in Graphic design according to you?",
-        "href": "./blog/blog-details"
-      },
-      {
-        "imgLink": "./images/blog/blog3.jpg",
-        "designation": "Admin",
-        "date": "07-03-2023",
-        "title": "What are the latest trends in Graphic design according to you?",
-        "href": "./blog/blog-details"
+        "imgLink": "https://miro.medium.com/v2/resize:fit:786/format:webp/0*0BMPMPXvKRJh8RYT",
+        "designation": "Bernard Ofoegbu",
+        "date": "04-08-2024",
+        "title": "Exploring the Implementation and Impact of Micro-Frontends in Full-Stack Development",
+        "href": "https://medium.com/@bernardofoegbu/exploring-the-implementation-and-impact-of-micro-frontends-in-full-stack-development-53417bac09e9"
       }
     ]
   },
