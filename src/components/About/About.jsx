@@ -15,7 +15,6 @@ const About = ({ data }) => {
               <div
                 className="st-about-img st-bg"
                 style={{ backgroundImage: `url(${imgLink})` }}
-                alt="Bernard Ofoegbu"
                 data-aos="fade-right"
                 data-aos-duration="800"
                 data-aos-delay="400"
