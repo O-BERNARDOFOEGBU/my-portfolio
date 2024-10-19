@@ -4,7 +4,7 @@
   <!-- Homepage -->
   <url>
     <loc>https://bernardofoegbu.is-a.dev/</loc>
-    <lastmod>2024-10-19</lastmod>
+    <lastmod>2024-10-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -12,23 +12,23 @@
   <!-- About Section -->
   <url>
     <loc>https://bernardofoegbu.is-a.dev/#about</loc>
-    <lastmod>2024-10-19</lastmod>
+    <lastmod>2024-10-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- Portfolio Section -->
+  <!-- Portfolio Section (updated weekly) -->
   <url>
     <loc>https://bernardofoegbu.is-a.dev/#portfolio</loc>
-    <lastmod>2024-10-19</lastmod>
+    <lastmod>2024-10-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
 
   <!-- Contact Section -->
   <url>
     <loc>https://bernardofoegbu.is-a.dev/#contact</loc>
-    <lastmod>2024-10-19</lastmod>
+    <lastmod>2024-10-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
