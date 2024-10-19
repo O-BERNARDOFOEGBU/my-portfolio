@@ -1,9 +1,9 @@
-import PropTypes from 'prop-types';
-import './Hero.scss';
-import parser from 'html-react-parser';
-import SocialLinks from '../SocialLinks/SocialLinks';
-import { Link as ScrollLink } from 'react-scroll';
-import { useEffect } from 'react';
+import PropTypes from "prop-types";
+import "./Hero.scss";
+import parser from "html-react-parser";
+import SocialLinks from "../SocialLinks/SocialLinks";
+import { Link as ScrollLink } from "react-scroll";
+import { useEffect } from "react";
 
 const Hero = ({ data, socialData }) => {
   const { subTitle, designation, imgLink, title, bgImgLink } = data;
@@ -11,14 +11,14 @@ const Hero = ({ data, socialData }) => {
   useEffect(() => {
     const handleScroll = () => {
       const scrollValue = window.scrollY;
-      const heroElements = document.querySelector('.st-hero-wrap .st-hero-img');
+      const heroElements = document.querySelector(".st-hero-wrap .st-hero-img");
       if (heroElements) {
         heroElements.style.right = `${scrollValue * -0.1}px`;
       }
     };
-    window.addEventListener('scroll', handleScroll);
+    window.addEventListener("scroll", handleScroll);
     return () => {
-      window.removeEventListener('scroll', handleScroll);
+      window.removeEventListener("scroll", handleScroll);
     };
   }, []);
 
@@ -54,7 +54,7 @@ const Hero = ({ data, socialData }) => {
         </div>
       </div>
       <div className="st-hero-img st-to-right">
-        <img className="" src={`${imgLink}`} alt="Hero" />
+        <img className="" src={`${imgLink}`} alt="Bernard Ofoegbu" />
         <div className="st-social-group">
           <SocialLinks data={socialData} />
         </div>
