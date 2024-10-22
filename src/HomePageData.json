@@ -160,11 +160,13 @@
       {
         "imgLink": "./images/portfolio/portfolio2.jpg",
         "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "title": "Bend&Select",
+        "subTitle": "Shopify Development",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "300"
+        "delay": "300",
+        "website": "https://bendandselect.myshopify.com/",
+        "summary": "BendAndSelect is an e-commerce store powered by Shopify, offering a seamless shopping experience and shipping to customers worldwide. This project highlights my expertise in creating responsive, user-friendly Shopify stores with custom themes, global shipping integration, and optimized checkout flows, ensuring smooth performance across devices."
       },
       {
         "imgLink": "./images/portfolio/portfolio3.jpg",
