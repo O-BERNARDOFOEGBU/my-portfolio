@@ -173,13 +173,13 @@
         "imgLink": "./images/portfolio/portfolio3.jpg",
         "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
         "title": "SABI",
-        "subTitle": "PWA / Mobile development",
+        "subTitle": "PWA / Mobile Development",
         "effect": "fade-up",
         "duration": "500",
         "delay": "400",
         "website": "https://www.spaceso2o.com",
         "github": "https://github.com/spacesio-org",
-        "summary": "Sabi is Africa’s largest B2B platform enabling informal trade across the continent. This project demonstrates my proficiency in developing user-centric, responsive web applications for the business-to-business sector. The platform allows users to manage storefronts, record daily sales, sell online, and order goods at wholesale prices. Key features include a Progressive Web Application (PWA) built with ReactJs, a mobile app developed with React Native, and seamless API integrations for efficient data exchange. The application ensures optimal performance and user experience across various devices. Technologies used in this project include ReactJs, React Native, Redux, HTML, CSS, JavaScript, and REST APIs. Explore how I contributed to making Sabi the No.1 B2B retail platform in Nigeria."
+        "summary": "SABI is Africa’s largest B2B platform enabling informal trade across the continent. My contributions to this project were instrumental in expanding the platform’s reach and usability for over 1 million users across Africa. I played a key role in implementing multitenancy, enabling SABI to seamlessly support multiple business models and expand into new markets. Additionally, I developed interactive tour guides, simplifying the onboarding process and improving the overall user experience. These guides helped users quickly understand new features and increased platform engagement by making it more intuitive to navigate. The project also involved building a Progressive Web Application (PWA) using ReactJS, along with a mobile app built with React Native. I worked on integrating APIs for efficient data exchange, and the platform was designed for optimal performance across a wide range of devices. Technologies used include ReactJS, React Native, Redux, HTML, CSS, JavaScript, and REST APIs."
       },
       {
         "imgLink": "./images/portfolio/portfolio4.jpg",
@@ -190,25 +190,32 @@
         "duration": "500",
         "delay": "500",
         "website": "https://belrald.com/students-portal",
-        "summary": "Belrald is an innovative edtech platform designed to streamline university management processes, enhancing operational efficiency and faculty-student engagement. This project highlights my ability to develop tailored solutions for the education sector. Key features include a debt management system that improves payment tracking and compliance for students. Technologies used in this project include ReactJS, Tailwind CSS, and API integrations to optimize payment processing and user experience."
+        "github": "",
+        "summary": "Belrald is an innovative edtech platform designed to streamline university management processes, enhancing operational efficiency and faculty-student engagement. This project highlights my ability to develop tailored solutions for the education sector. Key contribution include a debt management system that improves payment tracking and compliance for students. Technologies used in this project include ReactJS, Tailwind CSS, and API integrations to optimize payment processing and user experience."
       },
       {
         "imgLink": "./images/portfolio/portfolio5.jpg",
         "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
-        "title": "Menosphere",
-        "subTitle": "Fullstack Web App",
+        "title": "CasaBellyful",
+        "subTitle": "Web Development",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "600"
+        "delay": "600",
+        "website": "https://casabellyfull.netlify.app/",
+        "github": "https://github.com/O-BERNARDOFOEGBU/Paystack-checkout-demo",
+        "summary": "CasaBellyful is a food vendor web application that integrates Paystack's payment gateway for seamless online transactions. Built using TypeScript, React, and Tailwind CSS, this platform allows users to browse food items, add them to a cart, and securely complete payments. Key features include cart management, real-time price calculation, and payment success/failure notifications. This project demonstrates my skills in e-commerce development and secure payment integrations."
       },
       {
         "imgLink": "./images/portfolio/portfolio6.jpg",
         "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "title": "GTCO Shares Support AI",
+        "subTitle": "AI-Powered Support Tool",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "700"
+        "delay": "700",
+        "website": "https://ai-customer-support-ten.vercel.app/",
+        "github": "https://github.com/TEAM-BAMS/AI-CUSTOMER-SUPPORT",
+        "summary": "GTCO Shares Support AI is an AI-driven customer support tool that I built to provide real-time assistance to users interested in purchasing shares from Guaranty Trust (GTCO). Developed under tight deadlines as part of the Headstarter Fellowship, I  designed and built this application using Next.js, OpenAI, Node.js, and Tailwind CSS. The project showcases my skills in prompt engineering, creating a highly responsive UI that aligns with GTCO’s branding. Despite limited time, I delivered a functional and polished solution that enhances customer support in the financial sector."
       },
       {
         "imgLink": "./images/portfolio/portfolio1.jpg",
@@ -263,105 +270,6 @@
         "effect": "fade-up",
         "duration": "500",
         "delay": "700"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio1.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "200"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio2.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "300"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio3.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "400"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio4.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "500"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio5.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "600"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio6.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "700"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio1.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "200"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio2.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "300"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio3.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "400"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio4.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "500"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio5.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "600"
       }
     ]
   },
@@ -399,18 +307,18 @@
         "href": "https://medium.com/@bernardofoegbu/state-management-in-react-applications-an-in-depth-analysis-of-redux-context-api-and-recoil-6aed80cbf2be"
       },
       {
-        "imgLink": "https://camo.githubusercontent.com/541b7948db629e84367bfd94276ead804e295ed0ac8c1864217333e31a355d93/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d34626232363339626563646363343130343335373562643362366334326137372d63",
+        "imgLink": "./images/blog/multi-tenant.jpg",
+        "designation": "Bernard Ofoegbu",
+        "date": "05-07-2023",
+        "title": "Achieving Multitenancy and Localization in React",
+        "href": "https://www.linkedin.com/feed/update/urn:li:activity:7082450015863877632/"
+      },
+      {
+        "imgLink": "./images/blog/recursion.jpg",
         "designation": "Bernard Ofoegbu",
         "date": "02-08-2024",
         "title": "Understanding Recursion in JavaScript",
         "href": "https://gist.github.com/O-BERNARDOFOEGBU/e27e611a3115fb6f040010c6db49a3af"
-      },
-      {
-        "imgLink": "https://media.licdn.com/dms/image/C4D22AQHUMKu9KjEgYw/feedshare-shrink_2048_1536/0/1657196516525?e=1725494400&v=beta&t=6xd3n-9A-Si5MM72ATa2hg-5vPOfi_QyA5Nch8CtHVI",
-        "designation": "Bernard Ofoegbu",
-        "date": "04-08-2022",
-        "title": "How to easily make a show or hide password toggle button in React JS",
-        "href": "https://www.linkedin.com/feed/update/urn:li:activity:6950785991695556608/"
       },
       {
         "imgLink": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwkbgrdl64tf1j9g5gfdc.png",
@@ -420,12 +328,13 @@
         "href": "https://dev.to/goldenfinger/real-time-features-in-mern-applications-56db"
       },
       {
-        "imgLink": "https://media.licdn.com/dms/image/sync/D4E27AQFRPwMxm6uWhQ/articleshare-shrink_160/0/1722625149191?e=1723482000&v=beta&t=GFWEkXnBYdmj5St5c66p3OPQxFcXoeeEwRw9oyvbhNM",
+        "imgLink": "./images/blog/toggle.jpg",
         "designation": "Bernard Ofoegbu",
-        "date": "05-07-2023",
-        "title": "Achieving Multitenancy and Localization in React",
-        "href": "https://www.linkedin.com/feed/update/urn:li:activity:7082450015863877632/"
+        "date": "04-08-2022",
+        "title": "How to easily make a show or hide password toggle button in React JS",
+        "href": "https://www.linkedin.com/feed/update/urn:li:activity:6950785991695556608/"
       },
+
       {
         "imgLink": "./images/blog/blog2.jpg",
         "designation": "Admin",
