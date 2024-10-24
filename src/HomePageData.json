@@ -2,16 +2,17 @@
   "heroData": {
     "bgImgLink": "./images/background/hero-bg.jpg",
     "imgLink": "./images/section/hero-img.jpg",
-    "title": "Bernard <br /> Ofoegbu",
+
+    "title": "Bernard <br/> Ofoegbu",
     "subTitle": "Hello, I’m",
-    "designation": "Fullstack Developer"
+    "designation": "A frontend-heavy full-stack software engineer "
   },
   "aboutData": {
     "imgLink": "./images/section/about.jpg",
     "cvPdf": "./images/Resume.pdf",
     "title": "Hi There! I'm Bernard Ofoegbu",
-    "subtitle": "Fullstack Developer",
-    "text": "I am a Full-Stack Developer with a keen emphasis on crafting seamless digital experiences. My expertise spans both front-end and back-end development, aiming to not only deliver functional solutions but also to engage, empower, and optimize user interactions. Through my work, I strive to stimulate engagement, streamline processes, and drive impactful results by seamlessly integrating technology to meet diverse needs",
+    "subtitle": "Fullstack software engineer",
+    "text": "I am a frontend-focused Full-Stack Software Engineer with a passion for building end-to-end solutions. With extensive experience in both product design and backend development, I deliver pixel-perfect, visually engaging implementations that blend intuitive, human-centered design with robust business logic. My work consistently enhances engagement and operational efficiency by seamlessly integrating technology to solve real-world problems",
     "details": [
       {
         "title": "Birthday",
@@ -23,15 +24,15 @@
       },
       {
         "title": "Email",
-        "info": "bernardofoegbu@aol.com"
+        "info": "bernardofoegbu71@gmail.com"
       },
       {
         "title": "From",
-        "info": "Victoria Bay 2 Estate, 106104"
+        "info": "Lagos, Nigeria"
       },
       {
         "title": "Language",
-        "info": "English"
+        "info": "English, German"
       },
       {
         "title": "Freelance",
@@ -183,17 +184,19 @@
       {
         "imgLink": "./images/portfolio/portfolio4.jpg",
         "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
-        "title": "Menosphere",
-        "subTitle": "Fullstack Web App",
+        "title": "Belrald",
+        "subTitle": "Web Development",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "500"
+        "delay": "500",
+        "website": "https://belrald.com/students-portal",
+        "summary": "Belrald is an innovative edtech platform designed to streamline university management processes, enhancing operational efficiency and faculty-student engagement. This project highlights my ability to develop tailored solutions for the education sector. Key features include a debt management system that improves payment tracking and compliance for students. Technologies used in this project include ReactJS, Tailwind CSS, and API integrations to optimize payment processing and user experience."
       },
       {
         "imgLink": "./images/portfolio/portfolio5.jpg",
         "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "title": "Menosphere",
+        "subTitle": "Fullstack Web App",
         "effect": "fade-up",
         "duration": "500",
         "delay": "600"
@@ -501,22 +504,40 @@
     "experienceTitle": "Experience",
     "experience": [
       {
-        "title": "FullStack Developer",
+        "title": "Senior Frontend Engineer",
         "duration": "March 2023 - Present",
         "subTitle": "HouseParry",
-        "text": " Engineering, crafting, and upholding background services in Node.js, ensuring high performance and reliability for the e-commerce platform. Leveraged Node.js, Express, and MongoDB to tailor backend functionalities to suit e-commerce requirements while orchestrating the frontend with React"
+        "text": "Optimized frontend architecture, boosting platform speed by 15% and ensuring 99.99% uptime."
       },
       {
-        "title": "Frontend Developer",
-        "duration": "June 2021 - Jan 2023",
+        "title": "Senior Frontend Engineer (Contract)",
+        "duration": "July 2024 - August 2024",
+        "subTitle": "Belrald",
+        "text": "Built a debt management system, increasing student payment compliance by 30% within one month."
+      },
+      {
+        "title": "Frontend Engineer",
+        "duration": "February 2023 - July 2023",
+        "subTitle": "WeDance",
+        "text": "Developed ticketing and event booking system, enhancing user experience with Vue.js."
+      },
+      {
+        "title": "Frontend Engineer",
+        "duration": "June 2021 - January 2023",
         "subTitle": "Sabi",
-        "text": "I worked in an agile team of 9 to develop a user facing Front-End focused Progressive Web Application (PWA) aimed at enabling and empowering users in the informal sector across Africa to distribute goods and services.  (Became No.1 B2B retail platform in Nigeria)"
+        "text": "Created user-friendly UI components for 1M+ users and contributed to internationalization."
       },
       {
-        "title": "Web Developer",
-        "duration": "Sept 2020 - May 2021",
-        "subTitle": "Ridapp",
-        "text": " I worked in a team proffering web solutions and developing web applications utilizing web technologies, such as Html, CSS, Vanilla Javascript, ReactJs/Redux, Express.js, Mongoose, and MongoDB."
+        "title": "Software Engineer",
+        "duration": "September 2020 - May 2021",
+        "subTitle": "RidApp",
+        "text": "Built web applications with React and Express, improving verification processes and reducing fraud."
+      },
+      {
+        "title": "Frontend Engineer",
+        "duration": "September 2019 - August 2020",
+        "subTitle": "Zazuu",
+        "text": "Enhanced cross-border payments, improving transaction speeds and integrating payment systems."
       }
     ],
     "educationTitle": "Education",

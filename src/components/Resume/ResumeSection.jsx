@@ -2,6 +2,7 @@ import PropTypes from "prop-types";
 import SectionHeading from "../SectionHeading/SectionHeading";
 import "./Resume.scss";
 import SingleResume from "./SingleResume";
+import SingleExperience from "./SingleExperience";
 
 const ResumeSection = ({ data }) => {
   const { educationTitle, education, experienceTitle, experience } = data;
@@ -44,7 +45,7 @@ const ResumeSection = ({ data }) => {
 
               <div className="st-resume-timeline-wrap">
                 {experience.map((experience, index) => (
-                  <SingleResume element={experience} key={index} />
+                  <SingleExperience element={experience} key={index} />
                 ))}
               </div>
             </div>

@@ -4,6 +4,7 @@ import parser from "html-react-parser";
 import SocialLinks from "../SocialLinks/SocialLinks";
 import { Link as ScrollLink } from "react-scroll";
 import { useEffect } from "react";
+import { Link } from "react-router-dom";
 
 const Hero = ({ data, socialData }) => {
   const { subTitle, designation, imgLink, title, bgImgLink } = data;
@@ -31,14 +32,17 @@ const Hero = ({ data, socialData }) => {
       >
         <div className="container">
           <div className="st-hero-text">
+            {/* <div className="greeting-text"> */}
             <h3 data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">
               {subTitle}
             </h3>
             <h1 data-aos="fade-up" data-aos-duration="800" data-aos-delay="300">
               {parser(title)}
             </h1>
+            {/* </div> */}
+
             <h2 data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">
-              {designation}
+              {parser(designation)}
             </h2>
             <div
               className="st-hero-btn"
@@ -46,9 +50,18 @@ const Hero = ({ data, socialData }) => {
               data-aos-duration="800"
               data-aos-delay="500"
             >
-              <ScrollLink className="st-btn st-style1 st-color1" to="contact">
-                Hire Me
-              </ScrollLink>
+              <div className="cta-container">
+                <ScrollLink className="st-btn st-style1 st-color1" to="contact">
+                  Message
+                </ScrollLink>
+                <Link
+                  className="st-btn st-style1 st-color3"
+                  to="https://calendly.com/bernardofoegbu71/30min"
+                  style={{ backgroundColor: "#232935" }}
+                >
+                  Book call
+                </Link>
+              </div>
             </div>
           </div>
         </div>

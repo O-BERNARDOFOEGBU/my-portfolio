@@ -44,7 +44,7 @@
     }
 
     h2 {
-      font-size: 36px;
+      font-size: 24px;
       margin-bottom: 41px;
       font-weight: 300;
       color: $base-color2;
@@ -58,6 +58,14 @@
       color: $base-color1;
     }
   }
+}
+
+.cta-container {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 24px;
+  align-items: center;
+  // justify-items: center;
 }
 
 .st-social-group {
