@@ -7,9 +7,7 @@ const Footer = () => {
     <footer>
       <div className="container">
         <div className="st-copyright-wrap text-center">
-          <div className="st-copyright-text">
-            © {currentYear}. Obinna Bernard Ofoegbu. All right reserved.
-          </div>
+          <div className="st-copyright-text">Copyright © {currentYear}</div>
         </div>
       </div>
     </footer>
