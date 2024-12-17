@@ -149,15 +149,15 @@
       {
         "imgLink": "./images/portfolio/portfolio1.jpg",
         "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
-        "title": "CESNO Energy",
-        "subTitle": "Web Development",
+        "title": "HouseParry",
+        "subTitle": "Event Planning Platform",
         "effect": "fade-up",
         "duration": "500",
         "delay": "200",
-        "website": "https://www.cesnoenergy.com",
-        "github": "https://github.com/O-BERNARDOFOEGBU/CESNO-ENERGY",
-        "summary": "CESNO ENERGY is a dynamic web platform built for a leading energy company that specializes in renewable energy solutions as well as oil and gas services. This project highlights my expertise in web development for corporate entities and my ability to create user-centric, responsive web applications. The website features a detailed overview of the company's mission and values, an extensive list of services, and informative content on energy solutions and industry trends. The user-friendly interface and modern design ensure a seamless experience across all devices, making it easy for users to navigate and find the information they need. Key technologies used in this project include HTML, CSS, JavaScript,bootstarap and an Email service for handling the contact form. Explore the CESNO ENERGY website to see how I brought this project to life, and visit the GitHub repository for a deeper look into the development process."
+        "website": "https://houseparry.com",
+        "summary": "HouseParry is an innovative platform revolutionizing house party planning, starting in Lekki, Lagos. It simplifies event organization by connecting hosts with essential vendors, creating a seamless planning experience. As the lead frontend engineer, I built a responsive and dynamic interface using React.js, Next.js, and Three.js for 3D visuals. Key features include intuitive vendor listings, real-time event management, and an immersive design. This project showcases my skills in building user-focused, scalable applications with a balance of visual appeal and functionality."
       },
+
       {
         "imgLink": "./images/portfolio/portfolio2.jpg",
         "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
@@ -216,6 +216,18 @@
         "website": "https://ai-customer-support-ten.vercel.app/",
         "github": "https://github.com/TEAM-BAMS/AI-CUSTOMER-SUPPORT",
         "summary": "GTCO Shares Support AI is an AI-driven customer support tool that I built to provide real-time assistance to users interested in purchasing shares from Guaranty Trust (GTCO). Developed under tight deadlines as part of the Headstarter Fellowship, I  designed and built this application using Next.js, OpenAI, Node.js, and Tailwind CSS. The project showcases my skills in prompt engineering, creating a highly responsive UI that aligns with GTCO’s branding. Despite limited time, I delivered a functional and polished solution that enhances customer support in the financial sector."
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio7.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio7_lg.jpg",
+        "title": "CESNO Energy",
+        "subTitle": "Web Development",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "800",
+        "website": "https://www.cesnoenergy.com",
+        "github": "https://github.com/O-BERNARDOFOEGBU/CESNO-ENERGY",
+        "summary": "CESNO ENERGY is a dynamic web platform built for a leading energy company that specializes in renewable energy solutions as well as oil and gas services. This project highlights my expertise in web development for corporate entities and my ability to create user-centric, responsive web applications. The website features a detailed overview of the company's mission and values, an extensive list of services, and informative content on energy solutions and industry trends. The user-friendly interface and modern design ensure a seamless experience across all devices, making it easy for users to navigate and find the information they need. Key technologies used in this project include HTML, CSS, JavaScript,bootstarap and an Email service for handling the contact form. Explore the CESNO ENERGY website to see how I brought this project to life, and visit the GitHub repository for a deeper look into the development process."
       },
       {
         "imgLink": "./images/portfolio/portfolio1.jpg",
