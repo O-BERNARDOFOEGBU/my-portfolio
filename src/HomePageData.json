@@ -173,19 +173,19 @@
         "imgLink": "./images/portfolio/portfolio3.jpg",
         "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
         "title": "SABI",
-        "subTitle": "PWA / Mobile Development",
+        "subTitle": "B2B Supply Chain Platform",
         "effect": "fade-up",
         "duration": "500",
         "delay": "400",
         "website": "https://www.spaceso2o.com",
         "github": "https://github.com/spacesio-org",
-        "summary": "SABI is Africa’s largest B2B platform enabling informal trade across the continent. My contributions to this project were instrumental in expanding the platform’s reach and usability for over 1 million users across Africa. I played a key role in implementing multitenancy, enabling SABI to seamlessly support multiple business models and expand into new markets. Additionally, I developed interactive tour guides, simplifying the onboarding process and improving the overall user experience. These guides helped users quickly understand new features and increased platform engagement by making it more intuitive to navigate. The project also involved building a Progressive Web Application (PWA) using ReactJS, along with a mobile app built with React Native. I worked on integrating APIs for efficient data exchange, and the platform was designed for optimal performance across a wide range of devices. Technologies used include ReactJS, React Native, Redux, HTML, CSS, JavaScript, and REST APIs."
+        "summary": "SABI is Africa's largest B2B platform, providing enabling infrastructure for the sourcing and distribution of goods and services. My contributions to this project were instrumental in expanding the platform's reach and usability for over 1 million users across Africa. I played a key role in implementing multitenancy, enabling seamless expansion into new markets. The project involved building a Progressive Web Application (PWA) using ReactJS and a mobile app with React Native, focusing on performance and scalability. Technologies used: ReactJS, React Native, Redux, HTML, CSS, JavaScript, and REST APIs."
       },
       {
         "imgLink": "./images/portfolio/portfolio4.jpg",
         "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
         "title": "Belrald",
-        "subTitle": "Web Development",
+        "subTitle": "University Management Platform",
         "effect": "fade-up",
         "duration": "500",
         "delay": "500",
@@ -197,7 +197,7 @@
         "imgLink": "./images/portfolio/portfolio5.jpg",
         "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
         "title": "CasaBellyful",
-        "subTitle": "Web Development",
+        "subTitle": "Food Ordering & Payments",
         "effect": "fade-up",
         "duration": "500",
         "delay": "600",
@@ -232,56 +232,73 @@
       {
         "imgLink": "./images/portfolio/portfolio1.jpg",
         "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "title": "HouseParry",
+        "subTitle": "Event Planning Platform",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "200"
+        "delay": "200",
+        "website": "https://houseparry.com",
+        "summary": "HouseParry is an innovative platform revolutionizing house party planning, starting in Lekki, Lagos. It simplifies event organization by connecting hosts with essential vendors, creating a seamless planning experience. As the lead frontend engineer, I built a responsive and dynamic interface using React.js, Next.js, and Three.js for 3D visuals. Key features include intuitive vendor listings, real-time event management, and an immersive design. This project showcases my skills in building user-focused, scalable applications with a balance of visual appeal and functionality."
       },
+
       {
         "imgLink": "./images/portfolio/portfolio2.jpg",
         "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "title": "Bend&Select",
+        "subTitle": "Shopify Development",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "300"
+        "delay": "300",
+        "website": "https://bendandselect.myshopify.com/",
+        "summary": "BendAndSelect is an e-commerce store powered by Shopify, offering a seamless shopping experience and shipping to customers worldwide. This project highlights my expertise in creating responsive, user-friendly Shopify stores with custom themes, global shipping integration, and optimized checkout flows, ensuring smooth performance across devices."
       },
       {
         "imgLink": "./images/portfolio/portfolio3.jpg",
         "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "title": "SABI",
+        "subTitle": "B2B Supply Chain Platform",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "400"
+        "delay": "400",
+        "website": "https://www.spaceso2o.com",
+        "github": "https://github.com/spacesio-org",
+        "summary": "SABI is Africa's largest B2B platform, providing enabling infrastructure for the sourcing and distribution of goods and services. My contributions to this project were instrumental in expanding the platform's reach and usability for over 1 million users across Africa. I played a key role in implementing multitenancy, enabling seamless expansion into new markets. The project involved building a Progressive Web Application (PWA) using ReactJS and a mobile app with React Native, focusing on performance and scalability. Technologies used: ReactJS, React Native, Redux, HTML, CSS, JavaScript, and REST APIs."
       },
       {
         "imgLink": "./images/portfolio/portfolio4.jpg",
         "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "title": "Belrald",
+        "subTitle": "University Management Platform",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "500"
+        "delay": "500",
+        "website": "https://belrald.com/students-portal",
+        "github": "",
+        "summary": "Belrald is an innovative edtech platform designed to streamline university management processes, enhancing operational efficiency and faculty-student engagement. This project highlights my ability to develop tailored solutions for the education sector. Key contribution include a debt management system that improves payment tracking and compliance for students. Technologies used in this project include ReactJS, Tailwind CSS, and API integrations to optimize payment processing and user experience."
       },
       {
         "imgLink": "./images/portfolio/portfolio5.jpg",
         "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "title": "CasaBellyful",
+        "subTitle": "Food Ordering & Payments",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "600"
+        "delay": "600",
+        "website": "https://casabellyfull.netlify.app/",
+        "github": "https://github.com/O-BERNARDOFOEGBU/Paystack-checkout-demo",
+        "summary": "CasaBellyful is a food vendor web application that integrates Paystack's payment gateway for seamless online transactions. Built using TypeScript, React, and Tailwind CSS, this platform allows users to browse food items, add them to a cart, and securely complete payments. Key features include cart management, real-time price calculation, and payment success/failure notifications. This project demonstrates my skills in e-commerce development and secure payment integrations."
       },
       {
         "imgLink": "./images/portfolio/portfolio6.jpg",
         "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "title": "GTCO Shares Support AI",
+        "subTitle": "AI-Powered Support Tool",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "700"
+        "delay": "700",
+        "website": "https://ai-customer-support-ten.vercel.app/",
+        "github": "https://github.com/TEAM-BAMS/AI-CUSTOMER-SUPPORT",
+        "summary": "GTCO Shares Support AI is an AI-driven customer support tool that I built to provide real-time assistance to users interested in purchasing shares from Guaranty Trust (GTCO). Developed under tight deadlines as part of the Headstarter Fellowship, I  designed and built this application using Next.js, OpenAI, Node.js, and Tailwind CSS. The project showcases my skills in prompt engineering, creating a highly responsive UI that aligns with GTCO’s branding. Despite limited time, I delivered a functional and polished solution that enhances customer support in the financial sector."
       }
     ]
   },
