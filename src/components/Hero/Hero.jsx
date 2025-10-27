@@ -44,13 +44,23 @@ const Hero = ({ data, socialData }) => {
             <h2 data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">
               {parser(designation)}
             </h2>
+            <h4 data-aos="fade-up" data-aos-duration="800" data-aos-delay="500">
+              {parser(
+                "Driving reliability to 99.99% uptime. Founder & builder of convenience-driven startups."
+              )}
+            </h4>
             <div
               className="st-hero-btn"
               data-aos="fade-up"
               data-aos-duration="800"
-              data-aos-delay="500"
+              data-aos-delay="600"
             >
-              <div className="cta-container">
+              <div
+                className="cta-container"
+                data-aos="fade-right"
+                data-aos-duration="800"
+                data-aos-delay="500"
+              >
                 <ScrollLink className="st-btn st-style1 st-color1" to="contact">
                   Message
                 </ScrollLink>

@@ -93,7 +93,7 @@ const Header = () => {
                       duration={500}
                       onClick={() => setMobileToggle(false)}
                     >
-                      Portfolio
+                      Work
                     </ScrollLink>
                   </li>
                   <li>

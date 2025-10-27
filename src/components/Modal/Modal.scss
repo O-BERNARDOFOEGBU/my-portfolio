@@ -29,3 +29,27 @@
 // .link-url:hover {
 //   background-color: #e0e0e0;
 // }
+
+// Carousel custom styles
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: $base-color1; // pure yellow
+  border-radius: 50%;
+  padding: 8px;
+  /* Remove filter for true color */
+}
+
+.carousel-indicators [data-bs-target] {
+  background-color: $base-color1;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  opacity: 0.7;
+  margin: 0 4px;
+  transition: opacity 0.2s;
+}
+
+.carousel-indicators .active {
+  opacity: 1;
+  background-color: $base-color4;
+}

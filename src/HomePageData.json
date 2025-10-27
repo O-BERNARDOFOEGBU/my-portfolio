@@ -5,30 +5,18 @@
 
     "title": "Bernard <br/> Ofoegbu",
     "subTitle": "Hello, I’m",
-    "designation": "A frontend-heavy full-stack software engineer "
+    "designation": "A Frontend-Focused Fullstack Engineer | Building Scalable & Intuitive Products "
   },
   "aboutData": {
     "imgLink": "./images/section/about.jpg",
     "cvPdf": "./images/Resume.pdf",
     "title": "Hi There! I'm Bernard Ofoegbu",
-    "subtitle": "Fullstack software engineer",
-    "text": "I am a frontend-focused Full-Stack Software Engineer with a passion for building end-to-end solutions. With extensive experience in both product design and backend development, I deliver pixel-perfect, visually engaging implementations that blend intuitive, human-centered design with robust business logic. My work consistently enhances engagement and operational efficiency by seamlessly integrating technology to solve real-world problems",
+    "subtitle": "Full-Stack Software Engineer | SRE | Founder",
+    "text": "I’m a frontend-focused Full-Stack Software Engineer with a strong foundation in building scalable products end-to-end. My expertise spans UI/UX implementation, backend development, and Site Reliability Engineering (SRE) — where I’ve driven reliability from under 50% to 99.99% uptime through custom dashboards, automated monitoring, and resilient systems. Beyond engineering, I’m a founder and builder at heart. I laid the technical foundations for Saakwa (on-demand laundry logistics) and HouseParry (social event planning), combining technical execution with product vision. At the core, my work blends human-centered design, reliability, and business logic to deliver solutions that are not only functional but also dependable and impactful. I thrive at the intersection of engineering excellence and entrepreneurial drive.",
     "details": [
-      {
-        "title": "Birthday",
-        "info": "August 20"
-      },
-      {
-        "title": "Phone",
-        "info": "+234 706-085-9311"
-      },
       {
         "title": "Email",
         "info": "bernardofoegbu71@gmail.com"
-      },
-      {
-        "title": "From",
-        "info": "Lagos, Nigeria"
       },
       {
         "title": "Language",
@@ -44,12 +32,28 @@
       }
     ]
   },
+  "founderData": {
+    "founderItems": [
+      {
+        "imgLink": "./images/founder/saakwaa.jpg",
+        "url": "https://saakwa.com",
+        "subtitle": "Founder & CTO, Saakwa",
+        "text": "Building a logistics-powered laundry service for professionals in Lagos. Designed and implemented core tech architecture (React frontend, API integrations, real-time updates). Leading product vision, operations, and technical foundations"
+      },
+      {
+        "imgLink": "./images/founder/houseparry.jpg",
+        "url": "https://houseparry.com",
+        "subtitle": "Founder, HouseParry",
+        "text": "Event and party planning platform. Spearheaded platform UI/UX and technical rollout. Exploring scale strategies similar to Airbnb & Amazon’s marketplace model."
+      }
+    ]
+  },
   "serviceData": {
     "services": [
       {
         "imgLink": "./images/icon/icon1.png",
         "title": "Frontend Development",
-        "text": "Building responsive and interactive user interfaces using modern frontend technologies such as HTML, CSS, JavaScript, and frameworks like React and Next.js",
+        "text": "Building responsive and interactive user interfaces using modern frontend technologies such as HTML, CSS, JavaScript, and frameworks like React, Vue, and Next.js",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "200"
@@ -57,7 +61,7 @@
       {
         "imgLink": "./images/icon/icon2.png",
         "title": "UI/UX Implementation",
-        "text": "Translating UI/UX designs / wireframes into high-quality, pixel-perfect code and ensuring the technical feasibility and fidelity of these designs.",
+        "text": "Translating wireframes, prototypes, and UI/UX designs into pixel-perfect, human-centered implementations — ensuring technical feasibility and elevated user experience",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "300"
@@ -65,31 +69,32 @@
       {
         "imgLink": "./images/icon/icon3.png",
         "title": "Backend Development",
-        "text": "Developing robust server-side logic, databases, and APIs using technologies such as Node.js or Python ensuring efficient and secure data management.",
+        "text": "Designing and implementing robust server-side logic, APIs, and databases using Node.js — ensuring scalability, reliability, security, performance, and efficiency.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "400"
       },
       {
         "imgLink": "./images/icon/icon4.png",
-        "title": " Mobile Development",
-        "text": "Creating cross-platform mobile applications for iOS and Android using React Native, with intuitive and responsive user interfaces, API integration, and optimized performance across devices",
+        "title": "API development and Integration",
+        "text": "Building and integrating RESTful and GraphQL APIs for seamless communication between applications and third-party services.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "500"
       },
       {
         "imgLink": "./images/icon/icon5.png",
-        "title": "API development and Integration",
-        "text": "Creating and integrating RESTful or GraphQL APIs to enable seamless communication between different parts of an application and third-party services",
+        "title": "Site Reliability Engineering (SRE)",
+        "text": "Enhancing platform reliability through custom dashboards, automated incident monitoring, and resilience engineering, driving uptime to 99.99%",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "600"
       },
+
       {
         "imgLink": "./images/icon/icon6.png",
-        "title": "Continuous Integration/Continuous Deployment (CI/CD)",
-        "text": " Implementing automated pipelines to streamline the process of building, testing, and deploying software updates.",
+        "title": " System Architecture & Scalability",
+        "text": "Designing end-to-end system structures that support growth, efficiency, and high availability for both startups and enterprise solutions.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "700"
@@ -302,6 +307,58 @@
       }
     ]
   },
+  "sreData": {
+    "sreItems": [
+      {
+        "imgLink": "./images/sre/Untitled_design1.jpg",
+        "images": [
+          "./images/sre/Untitled_design_lg.jpg",
+          "./images/sre/newmobilereliability.jpg",
+          "./images/sre/agencybankingreliability.jpg"
+        ],
+        "title": "Reliability Transformation",
+        "subTitle": "Growth in uptime & reliability",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200",
+        "summary": "I improved the reliability of multiple banking platforms and digital channels, moving them from below 50% (when I met them) to 99.99% uptime through observability, proactive monitoring, and incident automation.\n\n A critical focus area was Digital Customer Acquisition, where platform reliability directly impacts onboarding. The first priority was making the account opening process seamless, since onboarding is the foundation of customer trust.\n\n By strengthening monitoring, automating incident response, and ensuring consistency across channels, I stabilized the process end-to-end.\n\n As a result, account openings on the mobile channel began consistently crossing 1,000–1,500 daily, with peaks of 2,000–3,000 new accounts on some days.\n\n This journey shows how engineering reliability isn’t just about uptime, it directly fuels growth. By stabilizing acquisition systems, I unlocked scalable, dependable onboarding across mobile, agency banking, USSD, and SME portals."
+      },
+      {
+        "imgLink": "./images/sre/dashboard.jpg",
+        "images": [
+          "./images/sre/dashboard_lg.jpg",
+          "./images/sre/USSDMonitoringDashboard.jpg",
+          "./images/sre/GroMonitoringDashboard.jpg",
+          "./images/sre/VertoMonitoringDashboard.jpg",
+          "./images/sre/AgencyBankingDashboardlg.jpg",
+          "./images/sre/newmobileaccountmonitoring_lg.jpg"
+        ],
+        "title": "Visibility Dashboards",
+        "subTitle": "Custom Visibility Dashboards",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300",
+        "summary": "Built real-time dashboards for tracking mobile, USSD, agency banking, GRO, Verto, debit card platforms and more."
+      },
+      {
+        "imgLink": "./images/sre/DatabaseMonitoringIntegrify.jpg",
+        "images": [
+          "./images/sre/DatabaseMonitoringUSSDdbHC.jpg",
+          "./images/sre/DatabaseMonitoringIntegrifyHC.jpg",
+          "./images/sre/PremServerMonitoringHC.jpg",
+          "./images/sre/PremServerMonitoringHC.jpg",
+          "./images/sre/URLMonitoringHC.jpg",
+          "./images/sre/URLAndAPIMonitoringHC.jpg"
+        ],
+        "title": "Automation",
+        "subTitle": "Health Checks & Alerts",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400",
+        "summary": "Designed health-check monitoring, alerting, and escalation systems across databases, urls, APIs servers and other critical infrastructures to reduce MTTR and improve customer experience."
+      }
+    ]
+  },
   "blogData": {
     "useFor": "blog",
     "sliderSetting": {
@@ -407,6 +464,12 @@
     },
     "informations": [
       {
+        "imgLink": "./images/client/client0.png",
+        "title": "Blessing Ehize",
+        "designation": "CTO @FCMB Group",
+        "text": "Bernard's work with the SRE team leading Reliability to 99.99% across major banking platforms was indeed impressive."
+      },
+      {
         "imgLink": "./images/client/client1.png",
         "title": "Oladipo Alonge",
         "designation": "Founding Partner @Cesno Energy",
@@ -442,11 +505,19 @@
     "experienceTitle": "Experience",
     "experience": [
       {
-        "title": "Senior Frontend Engineer",
-        "duration": "March 2023 - Present",
-        "subTitle": "HouseParry",
-        "text": "Optimized frontend architecture, boosting platform speed by 15% and ensuring 99.99% uptime."
+        "title": "Software Engineer (Observability & Monitoring)",
+        "duration": "March 2025 - Present",
+        "subTitle": "FCMB Group",
+        "text": "Led SRE integration and automation across core banking platforms, enhancing system reliability to 99%+ and building internal observability tools with OpenTelemetry and Prometheus."
       },
+      {
+        "title": "Senior Frontend Engineer",
+        "duration": "March 2023 - February 2025",
+        "subTitle": "HouseParry",
+
+        "text": "Spearheaded frontend development for HouseParry, enhancing user experience and performance with React.js and Next.js, achieving a 15% increase in platform speed."
+      },
+
       {
         "title": "Senior Frontend Engineer (Contract)",
         "duration": "July 2024 - August 2024",
@@ -482,7 +553,7 @@
     "education": [
       {
         "title": "Master of Computer Science",
-        "duration": "2024 - 2025",
+        "duration": "2026 - 2027",
         "subTitle": "University of Hertfordshire",
         "text": "Focused on advanced computer science concepts and practical applications, preparing for cutting-edge roles in technology and innovation."
       },

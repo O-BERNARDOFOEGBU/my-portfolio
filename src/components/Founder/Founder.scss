@@ -1,19 +1,20 @@
 @import "../../sass/default/variable";
 
-.st-about-img {
-  min-height: 550px;
+.st-founder-img {
+  min-height: 225px;
+  margin-bottom: 24px;
 }
 
-.st-about-img-wrap {
+.st-founder-img-wrap {
   padding-right: 30px;
 }
 
 .st-text-block.st-style1 {
-  .st-text-block-title {
-    font-size: 36px;
-    font-weight: 400;
-    margin-bottom: 18px;
-  }
+  // .st-text-block-title {
+  //   font-size: 36px;
+  //   font-weight: 400;
+  //   margin-bottom: 18px;
+  // }
 
   .st-text-block-subtitle {
     font-size: 22px;
@@ -24,13 +25,13 @@
 
   .st-text-block-text {
     p {
-      margin-bottom: 18px;
+      margin-bottom: 9px;
     }
   }
 
-  .st-text-block-btn {
-    margin-top: 43px;
-  }
+  // .st-text-block-btn {
+  //   margin-top: 43px;
+  // }
 }
 
 .st-text-block-details li {
@@ -52,7 +53,7 @@
 }
 
 @media screen and (max-width: 991px) {
-  .st-about-img-wrap {
+  .st-founder-img-wrap {
     padding-right: 0px;
   }
 }

@@ -1,6 +1,6 @@
-import PropTypes from 'prop-types';
-import './Skill.scss';
-import SectionHeading from '../SectionHeading/SectionHeading';
+import PropTypes from "prop-types";
+import "./Skill.scss";
+import SectionHeading from "../SectionHeading/SectionHeading";
 
 const Skill = ({ data }) => {
   const { title, text, skills } = data;

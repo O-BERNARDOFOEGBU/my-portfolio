@@ -44,9 +44,9 @@
     }
 
     h2 {
-      font-size: 24px;
-      margin-bottom: 41px;
-      font-weight: 300;
+      font-size: 15px;
+      margin-bottom: 14px;
+      font-weight: 500;
       color: $base-color2;
     }
 
@@ -56,6 +56,15 @@
       margin-bottom: 10px;
       font-weight: 300;
       color: $base-color1;
+    }
+
+    h4 {
+      font-size: 12px;
+      margin-top: -6px;
+      margin-bottom: 41px;
+      font-weight: 200;
+      color: $base-color2;
+      font-style: italic;
     }
   }
 }
